@@ -1,0 +1,11 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --host=0.0.0.0 --port=8080"
+  },
+  "author": "luiz felipe evangelista",
+  "license": "ISC",
+  "description": ""
+}
